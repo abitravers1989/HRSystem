@@ -1,0 +1,14 @@
+C:\dev\HRSystem\HRSystem\bin\Debug\netcoreapp2.0\HRSystem.deps.json
+C:\dev\HRSystem\HRSystem\bin\Debug\netcoreapp2.0\HRSystem.runtimeconfig.json
+C:\dev\HRSystem\HRSystem\bin\Debug\netcoreapp2.0\HRSystem.runtimeconfig.dev.json
+C:\dev\HRSystem\HRSystem\bin\Debug\netcoreapp2.0\HRSystem.dll
+C:\dev\HRSystem\HRSystem\obj\Debug\netcoreapp2.0\HRSystem.csprojResolveAssemblyReference.cache
+C:\dev\HRSystem\HRSystem\obj\Debug\netcoreapp2.0\HRSystem.csproj.CoreCompileInputs.cache
+C:\dev\HRSystem\HRSystem\obj\Debug\netcoreapp2.0\HRSystem.AssemblyInfoInputs.cache
+C:\dev\HRSystem\HRSystem\obj\Debug\netcoreapp2.0\HRSystem.AssemblyInfo.cs
+C:\dev\HRSystem\HRSystem\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\dev\HRSystem\HRSystem\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\dev\HRSystem\HRSystem\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\dev\HRSystem\HRSystem\bin\Debug\netcoreapp2.0\HRSystem.pdb
+C:\dev\HRSystem\HRSystem\obj\Debug\netcoreapp2.0\HRSystem.dll
+C:\dev\HRSystem\HRSystem\obj\Debug\netcoreapp2.0\HRSystem.pdb
