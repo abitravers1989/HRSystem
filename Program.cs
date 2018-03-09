@@ -6,7 +6,9 @@ namespace HRSystem
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Manager manager = new Manager();
+            Console.WriteLine(manager.GetTotalPension());
+            Console.WriteLine();
         }
     }
 }

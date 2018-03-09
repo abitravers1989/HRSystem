@@ -5,11 +5,9 @@
 
         int Bsa { get; set; }
         int Bon { get; set; }
-        int Cpc { get; }
-        int Ppc { get; }
-        bool Hi { get; }
-
-        void GetTotalCompanyContributions();
+        int Cpc { get; set;  }
+        int Ppc { get; set; }
+        bool Hi { get; set;  }
 
     }
 }
