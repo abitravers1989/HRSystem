@@ -10,8 +10,6 @@ namespace HRSystem
             Manager manager = new Manager();
             Console.WriteLine("Preset Values:" + manager.GetTotalPension());
 
-            Manager managerTwo = new Manager(999, 5);
-            Console.WriteLine(managerTwo.GetTotalPension());
 
             Console.ReadKey();
         }

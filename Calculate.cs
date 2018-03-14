@@ -11,10 +11,6 @@ namespace HRSystem
         protected int Ppc { get; set; }
         protected bool Hi { get; set; }
 
-        public int GetTotalPension()
-        {
-            var totalpension = this.Cpc + this.Ppc;
-            return totalpension;
-        }
+        
     }
 }
